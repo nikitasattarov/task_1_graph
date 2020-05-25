@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1569422785 source:c:\users\makar\onedrive\Рабочий стол\obj graph\src\clcircle.cpp
+	"clCircle.h"
+
+1568719208 c:\users\makar\onedrive\Рабочий стол\obj graph\include\clcircle.h
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1569426060 source:c:\users\makar\onedrive\Рабочий стол\obj graph\main.cpp
+	"clCircle.h"
+	"clNode.h"
+	"clEdge.h"
+	"clGraph.h"
+
+1568116222 source:c:\users\makar\onedrive\Рабочий стол\obj graph\src\clline.cpp
+	"clLine.h"
+
+1568117324 c:\users\makar\onedrive\Рабочий стол\obj graph\include\clline.h
+	<graphics.h>
+	"CLDraw.h"
+
+1568112962 c:\users\makar\onedrive\Рабочий стол\obj graph\include\cldraw.h
+	<iostream>
+	<graphics.h>
+
+1569927890 c:\users\makar\onedrive\Рабочий стол\obj graph\include\clnode.h
+	<cstdlib>
+	<clCircle.h>
+
+1569426771 source:c:\users\makar\onedrive\Рабочий стол\obj graph\src\clnode.cpp
+	"clNode.h"
+
+1568117968 source:c:\users\makar\onedrive\Рабочий стол\obj graph\src\cledge.cpp
+	"clEdge.h"
+
+1568117732 c:\users\makar\onedrive\Рабочий стол\obj graph\include\cledge.h
+	"clLine.h"
+	<cstdlib>
+
+1569928381 source:c:\users\makar\onedrive\Рабочий стол\obj graph\src\clgraph.cpp
+	"clGraph.h"
+	"clEdge.h"
+	"clNode.h"
+	"clLine.h"
+
+1569327403 c:\users\makar\onedrive\Рабочий стол\obj graph\include\clgraph.h
+	"CLDraw.h"
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+	"clNode.h"
+
+1569322964 source:c:\users\st067947\desktop\obj graph\main.cpp
+	"clCircle.h"
+	"clNode.h"
+	"clEdge.h"
+	"clGraph.h"
+
+1568719208 c:\users\st067947\desktop\obj graph\include\clcircle.h
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1568112962 c:\users\st067947\desktop\obj graph\include\cldraw.h
+	<iostream>
+	<graphics.h>
+
+1568116096 c:\users\st067947\desktop\obj graph\include\clnode.h
+	<cstdlib>
+	<clCircle.h>
+
+1568117732 c:\users\st067947\desktop\obj graph\include\cledge.h
+	"clLine.h"
+	<cstdlib>
+
+1568117324 c:\users\st067947\desktop\obj graph\include\clline.h
+	<graphics.h>
+	"CLDraw.h"
+
+1569323016 c:\users\st067947\desktop\obj graph\include\clgraph.h
+	"CLDraw.h"
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+	"clNode.h"
+
+1568718906 source:c:\users\st067947\desktop\obj graph\src\clcircle.cpp
+	"clCircle.h"
+
+1568117968 source:c:\users\st067947\desktop\obj graph\src\cledge.cpp
+	"clEdge.h"
+
+1568116222 source:c:\users\st067947\desktop\obj graph\src\clline.cpp
+	"clLine.h"
+
+1568112962 source:c:\users\st067947\desktop\obj graph\src\clnode.cpp
+	"clNode.h"
+
+1569323016 source:c:\users\st067947\desktop\obj graph\src\clgraph.cpp
+	"clGraph.h"
+
+1575332440 source:c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\src\clcircle.cpp
+	"clCircle.h"
+
+1575332438 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\clcircle.h
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1575332438 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\cldraw.h
+	<iostream>
+	<graphics.h>
+
+1575332440 source:c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\src\cledge.cpp
+	"clEdge.h"
+
+1575332438 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\cledge.h
+	"clLine.h"
+	<cstdlib>
+
+1575332440 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\clline.h
+	<graphics.h>
+	"CLDraw.h"
+
+1575332440 source:c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\src\clgraph.cpp
+	"clGraph.h"
+	"clEdge.h"
+	"clNode.h"
+	"clLine.h"
+
+1575332438 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\clgraph.h
+	"CLDraw.h"
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+	"clNode.h"
+
+1575332440 c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\include\clnode.h
+	<cstdlib>
+	<clCircle.h>
+
+1575332442 source:c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\src\clline.cpp
+	"clLine.h"
+
+1575332444 source:c:\users\rog\desktop\Григорьев_Прога\maria_sitchihina\graph\src\clnode.cpp
+	"clNode.h"
+
+1590426002 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\main.cpp
+	"clCircle.h"
+	"clNode.h"
+	"clEdge.h"
+	"clGraph.h"
+	<locale.h>
+	<fstream>
+
+1590426139 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\clcircle.h
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1590423933 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\cldraw.h
+	<iostream>
+	<graphics.h>
+
+1590426162 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\clnode.h
+	<cstdlib>
+	<clCircle.h>
+
+1589791290 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\cledge.h
+	"clLine.h"
+	<cstdlib>
+
+1589791388 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\clline.h
+	<graphics.h>
+	"CLDraw.h"
+
+1590426149 c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\include\clgraph.h
+	"CLDraw.h"
+	<graphics.h>
+	"CLDraw.h"
+	<math.h>
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+	"clNode.h"
+
+1590423855 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\src\clcircle.cpp
+	"clCircle.h"
+
+1590423668 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\src\cledge.cpp
+	"clEdge.h"
+
+1590426123 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\src\clgraph.cpp
+	"clGraph.h"
+	"clEdge.h"
+	"clNode.h"
+	"clLine.h"
+
+1590423504 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\src\clline.cpp
+	"clLine.h"
+
+1590423682 source:c:\users\rog\desktop\ПРАКТИКУМ НА ЭВМ, ЗАДАЧИ\graph\src\clnode.cpp
+	"clNode.h"
+
